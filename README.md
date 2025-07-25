@@ -14,4 +14,4 @@ Nihongo DoJoは、日本語AIモデルの強化学習（GRPO）用データセ�
 
 Google Colab用のサンプルノートブック：
 
-- <a href="https://colab.research.google.com/github/AkabekoLabs/asobi-dojo/blob/main/notebooks/training_sudoku_4x4_beginner.ipynb" target="_blank">漢字トレーニング</a>
+- <a href="https://colab.research.google.com/github/AkabekoLabs/asobi-dojo/blob/main/notebooks/training_sudoku_4x4_beginner.ipynb" target="_blank">4x4 Sudoku Training</a>
