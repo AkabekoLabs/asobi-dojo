@@ -4,7 +4,7 @@
 
 ## 🎯 概要
 
-Nihongo DoJoは、日本語AIモデルの強化学習（GRPO）用データセットを生成するツールです。
+Asobi DoJoは、ゲームの強化学習（GRPO）用データセットを生成するツールです。
 
 ## GRPO論文 NotebookLM
 
@@ -15,3 +15,7 @@ Nihongo DoJoは、日本語AIモデルの強化学習（GRPO）用データセ�
 Google Colab用のサンプルノートブック：
 
 - <a href="https://colab.research.google.com/github/AkabekoLabs/asobi-dojo/blob/main/notebooks/training_sudoku_4x4_beginner.ipynb" target="_blank">4x4 Sudoku Training</a>
+
+## 関連プロジェクト
+
+- [日本語DoJo](https://github.com/AkabekoLabs/nihongo-dojo)
